@@ -1,22 +1,18 @@
-# Change these first
 owner: AI-TechSmart-Inc
 repo: upptime-
+
 sites:
   - name: Ira Systems Website
     url: https://irasystems.io
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-   baseUrl: /upptime-
+  baseUrl: /upptime-
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-    name: Ira Systems Status
-  introTitle: "Ira Systems Service Status" 
-    introMessage: "This page monitors the public availability of the Ira Systems website. Service status is updated through automated monitoring."
+  name: Ira Systems Status
+  introTitle: "Ira Systems Service Status"
+  introMessage: "This page monitors the public availability of the Ira Systems website. Service status is updated through automated monitoring."
   navbar:
     - title: Status
       href: /
     - title: GitHub
-    href: https://github.com/AI-TechSmart-Inc/upptime-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/AI-TechSmart-Inc/upptime-
